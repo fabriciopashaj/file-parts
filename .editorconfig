@@ -1,0 +1,10 @@
+root = true
+
+[*]
+# powershell is more of a windows thing but fuck them though
+end_of_line = lf
+charset = utf-8
+
+[*.ps1]
+indent_style = space
+indent_size = 4
